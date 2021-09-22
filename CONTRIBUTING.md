@@ -3,7 +3,7 @@
 ## Installation
 
 * `git clone <repository-url>`
-* `cd test-typescript-addon`
+* `cd ember-cli-typescript-typechecking-repro`
 * `yarn install`
 
 ## Linting

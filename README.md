@@ -1,4 +1,4 @@
-test-typescript-addon
+ember-cli-typescript-typechecking-repro
 ==============================================================================
 
 [Short description of the addon.]
@@ -16,7 +16,7 @@ Installation
 ------------------------------------------------------------------------------
 
 ```
-ember install test-typescript-addon
+ember install ember-cli-typescript-typechecking-repro
 ```
 
 

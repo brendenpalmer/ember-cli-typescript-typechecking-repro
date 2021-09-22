@@ -1,0 +1,8 @@
+{
+  "extends": "../../tsconfig.json",
+  "include": ["addon", "tests"],
+  "references": [{ "path": "../ts-addon-b" }],
+  "compilerOptions": {
+    "composite": true
+  }
+}
